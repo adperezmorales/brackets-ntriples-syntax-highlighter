@@ -18,6 +18,3 @@ And that's all. Now you can enjoy syntax highlighting for files with N-Triples f
 If N-Triples is not set automatically as default language for .nt files, click on the current language at bottom right of Brackets window (normally HTML) and select N-Triples in the dropdown menu.
 
 This extension is registered @  [Brackets Extension Registry](https://brackets-registry.aboutweb.com).
-
-##Notes
-Turtle Syntax Highlighter
